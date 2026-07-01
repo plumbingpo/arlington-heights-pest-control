@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arlingtonheightspestcontrolco.com/sitemap.xml
